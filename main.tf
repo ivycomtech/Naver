@@ -3,5 +3,4 @@ module "RG" {
 
 	rg		= var.rg
 
-
 }
