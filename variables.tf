@@ -8,7 +8,7 @@ variable "tenant_id" {}
 ## Resource Group 변수
 #############################################################################################
 variable "rg" {
-  description = "Resource Group 변수 선언 및 데이터 입력"
+  description = "Resource Group 변수 선언 및 데이터 입력1"
   type = object({
     rg_name      = string
     rg_location  = string
