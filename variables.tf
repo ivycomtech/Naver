@@ -17,6 +17,6 @@ variable "rg" {
   default = {
     rg_name      = "Naver_resource_group"
     rg_location  = "koreacentral"
-    tags         = { source : "terraform_50" }
+    tags         = { source : "terraform_51" }
   }
 }
